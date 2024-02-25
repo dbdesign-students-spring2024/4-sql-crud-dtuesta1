@@ -78,7 +78,6 @@ Decide what fields and data types are necessary for the two tables necessary for
 Bear in mind that the application must be able to use these tables to perform the required functionality outlined below.
 
 #### Users:
-
 Users can register for the app by supplying their...
 
 - email
